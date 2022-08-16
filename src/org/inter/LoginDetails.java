@@ -7,5 +7,6 @@ public interface LoginDetails {
 	void salary();
 	void age();
 	void lastname();
+	void address();
 
 }
