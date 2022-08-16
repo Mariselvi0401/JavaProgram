@@ -5,5 +5,6 @@ public interface LoginDetails {
 	void password();
 	void firstName();
 	void age();
+	void lastname();
 
 }
