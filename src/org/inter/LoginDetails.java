@@ -6,5 +6,6 @@ public interface LoginDetails {
 	void firstName();
 	void salary();
 	void age();
+	void lastname();
 
 }
